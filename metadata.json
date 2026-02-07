@@ -1,0 +1,8 @@
+{
+  "name": "Clark Online Dating",
+  "description": "A modern, AI-powered dating experience that focuses on meaningful connections through intelligent match analysis and smart profile generation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
